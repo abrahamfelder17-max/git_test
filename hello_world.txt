@@ -1,3 +1,6 @@
 hi there i m heppy to be here hi again just cheacking in 
 hi there i m back again lets see if i know how to use git or not yet 
 what do you think? but i want you to know i would be back if it worked and i know how to do it 
+i think i did it 
+there was one problem wel i put in the push before the commit 
+so it didnt worsk at first but after a few moments traying to figre things out i found the problem and fixed it 
